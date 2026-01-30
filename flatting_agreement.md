@@ -599,7 +599,7 @@
 
       1 bedframe, 1 mattress, 1 wardrobe, 1 trash can, 1 desk, 1 chair.
 
-      These are under the landlord's control and can not be operated: 1 powerboard, 2 security cameras (including power cords), 1 barrel, 1 bedside table.
+      These are under the landlord's control and can not be operated: 1 powerboard, 2 security cameras (including power cords), 2 barrels.
 
     - Room 2
 
@@ -607,7 +607,7 @@
 
     - Room 3
 
-      1 bedframe, 1 mattress, 1 wardrobe, 1 desk, 1 chair.
+      1 bedframe, 1 mattress, 1 wardrobe, 1 desk, 1 chair, 1 security camera (including power cord), 1 bedside table.
 
     - Kitchen
 
@@ -615,7 +615,7 @@
 
       1 microwave, 1 fridge, 1 microwave oven, 1 hob with 4 burners, 1 extractor hood.
 
-      These can not be operated: 1 dishwasher, 1 oven, 3 security cameras (including power cords).
+      These can not be operated: 1 dishwasher, 1 oven, 4 security cameras (including power cords).
 
     - Lanundry Room
    
@@ -633,6 +633,8 @@
     - All the people in the house must accept that landlord can allow a maximum of 2 people to live and sleep in the living room.
    
     - Room 1 is equipped with 2 security cameras, one monitoring the front and the other the side of the house, to ensure the house's security. Therefore the flatmates in Room 1 must allow the landlord to enter the room and resolve any issues as soon as possible after the landlord issues a notice.
+   
+    - Room 3 is equipped with 1 security camera, monitoring the back of the house, to ensure the house's security. Therefore the flatmates in Room 3 must allow the landlord to enter the room and resolve any issues as soon as possible after the landlord issues a notice.
 
     - Room 1, Room 2 and people living in the living room share Bathroom 1; Room 3 has Bathroom 2 to themselves. 
    
