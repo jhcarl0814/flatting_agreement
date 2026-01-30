@@ -634,7 +634,7 @@
    
     - Room 1 is equipped with 2 security cameras, one monitoring the front and the other the side of the house, to ensure the house's security. Therefore the flatmates in Room 1 must allow the landlord to enter the room and resolve any issues as soon as possible after the landlord issues a notice.
 
-    - Room 1 and people living in the living room share Bathroom 1; Room 2 and Room 3 share Bathroom 2. Therefore the flatmates in Room 3 must always keep their bedroom door open.
+    - Room 1, Room 2 and people living in the living room share Bathroom 1; Room 3 has Bathroom 2 to themselves. 
    
     - Additional charges apply for the use of heaters, coolers or non-mini fans. Please inform the landlord, calculate the electricity cost (duration * electricity consumption * unit price) and pay any additional charges at the end of the rental week.
 
